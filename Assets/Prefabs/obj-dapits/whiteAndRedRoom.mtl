@@ -1,0 +1,14 @@
+newmtl bamboo-wood-semigloss-albedo
+map_Kd bamboo-wood-semigloss-albedo.png
+Kd 1 1 1
+d 1
+
+newmtl red
+map_Kd red.jpg
+Kd 1 1 1
+d 1
+
+newmtl Default-Material
+Kd 1 1 1
+d 1
+

@@ -1,0 +1,25 @@
+newmtl OIP
+Kd 1 1 1
+d 1
+
+newmtl White
+Kd 1 1 1
+d 1
+
+newmtl black
+Kd 0.2358491 0.2358491 0.2358491
+d 1
+
+newmtl gothic1
+map_Kd gothic1.jpg
+Kd 1 1 1
+d 1
+
+newmtl Brown
+Kd 0.4056604 0.3136924 0.1856087
+d 1
+
+newmtl silver
+Kd 1 1 1
+d 1
+

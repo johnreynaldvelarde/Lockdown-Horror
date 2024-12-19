@@ -1,0 +1,13 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl blue
+Kd 0.1642043 0.3103371 0.7735849
+d 1
+
+newmtl OIP
+Kd 1 1 1
+d 1
+
